@@ -1,5 +1,5 @@
 # Pathfinding Visualizer
-
+<p align="center"> <img src="assets/working.png" alt="Pathfinding Visualizer in action" width="800"> </p>
 A C++17 desktop visualizer for Dijkstra, A*, breadth-first search, and iterative depth-first search. Search runs once to record a deterministic event stream; the animator replays it independently of frame rate.
 
 ## Features
